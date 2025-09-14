@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Simran 👋
 
-<!--
-**simiranjeet/simiranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about building scalable web applications.  
 
-Here are some ideas to get you started:
+## Skills
+- **Backend:** Python, Django, Flask
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Databases:** MySQL, PostgreSQL
+- **Other:** REST APIs, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **AI Music Generator**: Generate music using AI APIs
+- **Personal Budget Manager**: Django-based budget tracking app
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/simran)
+- [Portfolio](https://your-portfolio-link.com)
