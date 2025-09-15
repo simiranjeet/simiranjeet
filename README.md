@@ -13,5 +13,5 @@ I'm a Full Stack Developer passionate about building scalable web applications.
 - **Personal Budget Manager**: Django-based budget tracking app
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/simran)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/simranjeet-kaur-76792b248)
+- [Portfolio](https://simiranjeet.github.io/portfolio/)
