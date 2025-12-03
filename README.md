@@ -17,7 +17,7 @@ I'm a Result-driven Software developer with 3+ years of experience delivering ob
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" style="margin: 5px;">
+    <img src="https://camo.githubusercontent.com/0349f273e62dae47fcded4e815fb608f300c7e70d06dc22796ce15edd5984754/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667" height="40" alt="Laravel" style="margin: 5px;">
   </a>
 
   <!-- MySQL -->
@@ -62,7 +62,7 @@ I'm a Result-driven Software developer with 3+ years of experience delivering ob
 
   <!-- Shopify -->
   <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="40" alt="Shopify" style="margin: 5px;">
+    <img src="https://camo.githubusercontent.com/8a999e56973e10cfcda633a55812841dd3855a7f024c3a334fe0ba6c044c3f43/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076392f69636f6e732f73686f706966792e737667" height="40" alt="Shopify" style="margin: 5px;">
   </a>
 
 </div>
