@@ -2,11 +2,15 @@
 
 I'm a Result-driven Software developer with 3+ years of experience delivering object-oriented, high-performance, scalable web applications & microservices, using NodeJS, Laravel, WordPress, Shopify, Java, CodeIgniter, etc. Adept at crafting RESTful APIs, integrating third-party services, and managing full project lifecycles from design to deployment.  
 
-## Skills
-- **Backend:** Java, PHP, C#, Python
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Databases:** MySQL, PostgreSQL, Mongo
-- **Other:** REST APIs, Git, Docker,CI/CD
+## 👋 About Me
+
+✨ Full-stack developer with 3+ years of experience  
+💻 PHP, Laravel, Node.js, Java | REST APIs & scalable systems  
+🧩 React, Next.js, Vue.js | Clean UI & UX integration  
+☁️ AWS, Docker, CI/CD | Production-ready deployments  
+📚 Learning Python (Django, Flask)  
+🎯 Aspiring Solution Architect  
+
 ## I work with 
 <div align="left">
 
