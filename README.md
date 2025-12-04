@@ -6,7 +6,7 @@ I'm a Result-driven Software developer with 3+ years of experience delivering ob
 
 ✨ Full-stack developer with 3+ years of experience  
 💻 PHP, Laravel, Node.js, Java | REST APIs & scalable systems  
-🧩 React, Next.js, Vue.js | Clean UI & UX integration  
+🧩 React, Javascript | Clean UI & UX integration  
 ☁️ AWS, Docker, CI/CD | Production-ready deployments  
 📚 Learning Python (Django, Flask)  
 🎯 Aspiring Solution Architect  
